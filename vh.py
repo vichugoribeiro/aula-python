@@ -46,3 +46,4 @@ operacaoAnd = c < 5 and not b > 6
 print (operacaoAnd)
 operacaoOr = c < 5 or not b > 6
 print (operacaoOr)
+
